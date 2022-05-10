@@ -122,6 +122,7 @@ Channel names also can't start with an underscore (_) or period (.), or end with
 |Number of simultaneous active calls | 4 |
 |Max PowerPoint File Size | 2GB|
 |Teams keeps [meeting recordings](cloud-recording.md) that don't get uploaded to Microsoft Stream, available for local download | 20 days |
+|Maximum number of contacts that can be blocked | 300 |
   
 <sup>1</sup> For the best experience in large meetings, webinars, and live events, Microsoft recommends using the latest version of Teams desktop client or Teams mobile clients.
 
